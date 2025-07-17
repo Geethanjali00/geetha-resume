@@ -1,4 +1,3 @@
-
 import Header from '../components/Header';
 import Section from '../components/Section';
 import ProjectCard from '../components/ProjectCard';
@@ -44,7 +43,7 @@ const Index = () => {
   const skillCategories = [
     {
       title: "Programming & Analytics",
-      skills: ["Python", "SQL", "Machine Learning", "Naive Bayes", "Linear Regression"]
+      skills: ["Python", "SQL", "Machine Learning"]
     },
     {
       title: "Data Analysis Libraries",
@@ -52,7 +51,7 @@ const Index = () => {
     },
     {
       title: "Data Visualization Tools",
-      skills: ["Tableau", "Power BI", "Data Storytelling"]
+      skills: ["Tableau", "Power BI"]
     },
     {
       title: "Data Science Techniques",
